@@ -1,4 +1,4 @@
 # circleci
 
-here you can use circleci to automate testing integrated with github automatically
-code will not pass if code does not equal result of python test
+automated testing integrated with github automatically
+code will not pass if code does not pass python test checks
